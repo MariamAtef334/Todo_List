@@ -2,7 +2,14 @@
 
 This repository contains code for Todo app with react-redux.
 
+### Technologies Used:
 
+---
+
+1. React.js
+2. Redux Toolkit
+3. franer-motion
+4. CSS
 ## Available Scripts
 
 In the project directory, you can run:
