@@ -1,3 +1,6 @@
+#app view
+
+https://todolist334.netlify.app/
 # Build TODO App with Redux and React JS
 
 This repository contains code for Todo app with react-redux.
